@@ -3,9 +3,9 @@
 
 Project: Health Insurance Premium Prediction using IBM Auto AI Service
 
-Dataset: insurance.csv
-Node-Red Application: flows.json
-Notebook: Health Insurance Prediction using Linear Regression Notebook.ipynb
+- Dataset: insurance.csv
+- Node-Red Application: flows.json
+- Notebook: Health Insurance Prediction using Linear Regression Notebook.ipynb
 
 The project is to predict the amount of Health Insurance for a person using the details like
 
