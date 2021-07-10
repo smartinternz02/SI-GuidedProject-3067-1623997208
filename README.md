@@ -16,4 +16,4 @@ The project is to predict the amount of Health Insurance for a person using the 
     - Number of children 
     - Sex
     
-Model used for prediction is "Multi-Linear Regression".
+Algorithm used for prediction is "Multi-Linear Regression".
